@@ -1,10 +1,10 @@
 {
-    "name": "meanie",
+    "name": "open-knowledge",
     "version": "1.0.0",
-    "description": "MEANie - MEAN Stack Blogging Platform",
+    "description": "Open Knowledge - Viz sharing platform,",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cornflourblue/meanie.git"
+        "url": "https://github.com/paucabla/meanie-master.git"
     },
     "dependencies": {
         "bcryptjs": "^2.1.0",

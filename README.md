@@ -1,5 +1,5 @@
-# MEANie
+# Open Knowledge
 
-MEANie - MEAN Stack CMS & Blogging Platform
+Open Knowledge - Viz sharing platform
 
-For documentation and further details go to http://jasonwatmore.com/meanie
+For further details go to https://github.com/paucabla/meanie-master
